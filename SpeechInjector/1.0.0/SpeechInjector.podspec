@@ -28,7 +28,7 @@ s.framework = "UIKit"
 s.dependency  'MaterialComponents/Buttons'
 
 # 8
-s.source_files = "SpeechInjector/**/*.{swift,xcassets}"
+s.source_files = "SpeechInjector/**/*.{swift}"
 
 # 9
 s.resources = "SpeechInjector/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
